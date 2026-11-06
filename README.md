@@ -7,7 +7,7 @@ Windows 桌面小工具：把本机几个 AI Agent（WorkBuddy、Claude Code、C
 
 ## 下载
 
-**[→ 下载 AgentHub-1.6.2-win64.zip（28 MB）](../../releases/latest)**
+**[→ 下载 AgentHub-1.6.2-win64.zip（28 MB）](https://github.com/lsZenith/agenthub/releases/latest)**
 
 1. 解压到任意目录（别放在 `C:\Program Files` 下，可能没有写权限）
 2. 双击 `AgentHub.exe`
